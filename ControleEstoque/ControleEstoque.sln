@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEstoque", "ControleEstoque\ControleEstoque.csproj", "{04B5A2A3-59C8-44E6-A622-20CD56A23855}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Interface", "1. Interface", "{F7F91C15-2A5E-42E8-B1B9-F556866FE9DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Services", "2. Services", "{138A05D8-B68F-43F4-B6BC-C302900D8BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEstoque.Services", "ControleEstoque.Services\ControleEstoque.Services.csproj", "{50287225-55DF-4082-9C29-79E842A90770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEstoque.Helpers", "ControleEstoque.Helpers\ControleEstoque.Helpers.csproj", "{FBD820B3-B05F-4D2E-8179-EAD044432D54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Dominio", "3. Dominio", "{EEC7C044-C831-4425-A23C-6C74BD55372F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEstoque.Dominio", "ControleEstoque.Dominio\ControleEstoque.Dominio.csproj", "{9CBD1F34-EF66-4325-9AE7-9BCC0E063341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B5A2A3-59C8-44E6-A622-20CD56A23855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B5A2A3-59C8-44E6-A622-20CD56A23855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B5A2A3-59C8-44E6-A622-20CD56A23855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B5A2A3-59C8-44E6-A622-20CD56A23855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50287225-55DF-4082-9C29-79E842A90770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50287225-55DF-4082-9C29-79E842A90770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50287225-55DF-4082-9C29-79E842A90770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50287225-55DF-4082-9C29-79E842A90770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD820B3-B05F-4D2E-8179-EAD044432D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD820B3-B05F-4D2E-8179-EAD044432D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD820B3-B05F-4D2E-8179-EAD044432D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD820B3-B05F-4D2E-8179-EAD044432D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBD1F34-EF66-4325-9AE7-9BCC0E063341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBD1F34-EF66-4325-9AE7-9BCC0E063341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBD1F34-EF66-4325-9AE7-9BCC0E063341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBD1F34-EF66-4325-9AE7-9BCC0E063341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04B5A2A3-59C8-44E6-A622-20CD56A23855} = {F7F91C15-2A5E-42E8-B1B9-F556866FE9DF}
+		{50287225-55DF-4082-9C29-79E842A90770} = {138A05D8-B68F-43F4-B6BC-C302900D8BD6}
+		{FBD820B3-B05F-4D2E-8179-EAD044432D54} = {138A05D8-B68F-43F4-B6BC-C302900D8BD6}
+		{9CBD1F34-EF66-4325-9AE7-9BCC0E063341} = {EEC7C044-C831-4425-A23C-6C74BD55372F}
+	EndGlobalSection
+EndGlobal

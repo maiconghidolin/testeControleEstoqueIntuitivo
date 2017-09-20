@@ -1,0 +1,5 @@
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Dominio\bin\Debug\ControleEstoque.Dominio.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Dominio\bin\Debug\ControleEstoque.Dominio.pdb
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Dominio\obj\Debug\ControleEstoque.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Dominio\obj\Debug\ControleEstoque.Dominio.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Dominio\obj\Debug\ControleEstoque.Dominio.pdb

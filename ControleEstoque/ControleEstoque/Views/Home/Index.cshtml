@@ -1,0 +1,27 @@
+﻿
+<div class="jumbotron">
+    <h1>Controle de Estoque</h1>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th style="width: 80%;">Nome</th>
+                    <th style="width: 5%;"></th>
+                    <th style="width: 10%;" class="center">Quantidade</th>
+                    <th style="width: 5%;"></th>
+                </tr>
+            </thead>
+            <tbody data-bind="foreach: produtos">
+                <tr>
+                    <td data-bind="text: nome"></td>
+                    <td data-bind="click: $parent.decrementarEstoque" class="center" style="cursor:pointer"><i class="glyphicon glyphicon-minus"></i></td>
+                    <td data-bind="text: quantidade" class="center"></td>
+                    <td data-bind="click: $parent.incrementarEstoque" class="center" style="cursor:pointer"><i class="glyphicon glyphicon-plus"></i></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

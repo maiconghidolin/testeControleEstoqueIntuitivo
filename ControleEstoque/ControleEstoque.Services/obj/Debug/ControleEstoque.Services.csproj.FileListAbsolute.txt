@@ -1,0 +1,9 @@
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\bin\Debug\ControleEstoque.Services.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\bin\Debug\ControleEstoque.Services.pdb
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\bin\Debug\ControleEstoque.Dominio.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\bin\Debug\ControleEstoque.Helpers.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\bin\Debug\ControleEstoque.Dominio.pdb
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\bin\Debug\ControleEstoque.Helpers.pdb
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\obj\Debug\ControleEstoque.Services.csprojResolveAssemblyReference.cache
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\obj\Debug\ControleEstoque.Services.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Services\obj\Debug\ControleEstoque.Services.pdb

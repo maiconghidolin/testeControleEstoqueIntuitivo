@@ -1,0 +1,4 @@
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Helpers\bin\Debug\ControleEstoque.Helpers.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Helpers\bin\Debug\ControleEstoque.Helpers.pdb
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Helpers\obj\Debug\ControleEstoque.Helpers.dll
+C:\Users\DEV-09\Desktop\ControleEstoque\ControleEstoque.Helpers\obj\Debug\ControleEstoque.Helpers.pdb
